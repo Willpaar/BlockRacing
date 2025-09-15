@@ -3,4 +3,4 @@ positions and velocities to see realistic collisions and bounces in real time. F
 
 you can run this program easily on any windows device as long as you have java 21+ installed.
 
-just open the directory in the terminal and run .\start
+just open the directory in the terminal and run .\start.bat
